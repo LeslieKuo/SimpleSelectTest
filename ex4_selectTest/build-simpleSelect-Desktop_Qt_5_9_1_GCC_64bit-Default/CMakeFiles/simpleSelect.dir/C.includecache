@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maru/Desktop/wangkou/QtPro/ex4_selectTest/simpleSelect/main.c
+stdio.h
+-
+sys/time.h
+-
+sys/types.h
+-
+unistd.h
+-
+

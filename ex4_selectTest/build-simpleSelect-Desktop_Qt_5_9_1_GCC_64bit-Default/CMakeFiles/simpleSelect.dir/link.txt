@@ -1,0 +1,1 @@
+/usr/bin/gcc     CMakeFiles/simpleSelect.dir/main.c.o  -o simpleSelect -rdynamic 
